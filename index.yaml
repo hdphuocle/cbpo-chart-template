@@ -3,11 +3,11 @@ entries:
   bpo-chart:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2019-06-24T16:00:46.811527+07:00"
+    created: "2019-06-24T16:13:27.040563+07:00"
     description: A Helm chart for Kubernetes
-    digest: ea005c9dec082a3eecb9464a61c0b427cc203c49baaf64e520f06600d47bf91f
+    digest: c27d89c940745958b2fecd419857e2bdb03e68f50d971dc23e2d1dbaef92c5e5
     name: bpo-chart
     urls:
     - https://hdphuocle.github.io/cbpo-repo/bpo-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2019-06-24T16:00:46.810792+07:00"
+generated: "2019-06-24T16:13:27.03968+07:00"
